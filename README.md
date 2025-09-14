@@ -17,7 +17,7 @@ Operation history to track all calculations
 How to Use
 
 1 - Clone or download the repository:
-git clone https://github.com/YOUR_USERNAME/Scientific-Calculator-Python.git
+git clone https://github.com/Tripa-TheBot/Scientific-Calculator-Python.git
 
 2 - Run the calculator in Python (version 3.x recommended):
 python calculator.py
